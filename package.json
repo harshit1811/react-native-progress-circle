@@ -18,6 +18,9 @@
   ],
   "author": "Christoph Michel",
   "license": "MIT",
+  "dependencies": {
+    "deprecated-react-native-prop-types":"^2.3.0"    
+  },
   "devDependencies": {
     "babel-eslint": "^7.2.1",
     "babel-jest": "19.0.0",
